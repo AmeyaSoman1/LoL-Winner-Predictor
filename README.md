@@ -3,3 +3,8 @@ This project is a machine learning-based winner predictor for League of Legends 
 
 Credit must be given to the following Kaggle dataset from which I extracted the data: https://www.kaggle.com/datasets/datasnaek/league-of-legends
 
+## Introduction
+League of Legends (LoL) is a popular multiplayer online battle arena (MOBA) game where two teams of five players compete to destroy the opposing team's Nexus. The outcome of a match can often be predicted by various in-game factors. This project leverages historical data and machine learning techniques to predict the winner of a LoL match before it begins.
+
+
+
