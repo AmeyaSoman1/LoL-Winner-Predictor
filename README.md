@@ -12,5 +12,5 @@ The model is trained using a logistic regression algorithm on a dataset of histo
 Champion Selection: Champions (the characters) chosen by each team.  
 "First" Objectives: Know the team that took the first kill, such as the tower, dragon, etc.
 
-### Please go ahead and read the Jupyter Notebook for the thought process throughout this investigation 🔎
+#### Please go ahead and read the Jupyter Notebook for the thought process throughout this investigation 🔎
 
