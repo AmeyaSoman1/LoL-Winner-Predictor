@@ -6,5 +6,10 @@ Credit must be given to the following Kaggle dataset from which I extracted the 
 ## Introduction
 League of Legends (LoL) is a popular multiplayer online battle arena (MOBA) game where two teams of five players compete to destroy the opposing team's Nexus (a structure at the heart of their base). The outcome of a match can often be predicted by various in-game factors and this project leverages historical data and machine learning techniques to predict the winner of a LoL match, using the result of those factors.
 
+## Model Training
+The model is trained using a logistic regression algorithm on a dataset of historical League of Legends matches. The key features used for training include:
+
+Champion Selection: Champions (the characters) chosen by each team.
+"First" Objectives: Know the team that took the first kill, such as the tower, dragon, etc.
 
 
