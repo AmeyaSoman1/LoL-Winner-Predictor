@@ -9,7 +9,7 @@ League of Legends (LoL) is a popular multiplayer online battle arena (MOBA) game
 ## Model Training
 The model is trained using a logistic regression algorithm on a dataset of historical League of Legends matches. The key features used for training include:
 
-Champion Selection: Champions (the characters) chosen by each team.
+Champion Selection: Champions (the characters) chosen by each team.  
 "First" Objectives: Know the team that took the first kill, such as the tower, dragon, etc.
 
 
